@@ -1,5 +1,5 @@
-**My remote repository tutorial**
+My remote repository tutorial
 
-* **git push** -  pushing ammendments to your local file
+* *git pull* - receiving ammendments from remote repository
 
-* **git pull** - receiving ammendments from remote repository
+Hello World is always a good idea )))
